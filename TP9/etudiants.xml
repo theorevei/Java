@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Etudiants>
+	<Etudiant id="1">
+		<Nom>REVEILLARD</Nom>
+		<Prenom>Théo</Prenom>
+		<Groupe>2</Groupe>
+	</Etudiant>
+	<Etudiant id="2">
+	    <Nom>GADEA</Nom>
+		<Prenom>Romain</Prenom>
+		<Groupe>2</Groupe>
+	</Etudiant>
+	<Etudiant id="3">
+	    <Nom>MERAH</Nom>
+		<Prenom>Djamil</Prenom>
+		<Groupe>1</Groupe>
+	</Etudiant>
+	<Etudiant id="4">
+	    <Nom>ANGUENOT</Nom>
+		<Prenom>Thomas</Prenom>
+		<Groupe>1</Groupe>
+	</Etudiant>
+</Etudiants>
